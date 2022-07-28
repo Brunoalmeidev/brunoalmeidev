@@ -1,4 +1,4 @@
-### Hello There 👋
+### Hello there 👋
 
 💻 I´m a programming student.
 
