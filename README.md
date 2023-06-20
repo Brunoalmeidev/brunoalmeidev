@@ -1,3 +1,3 @@
-### Oi, eu sou o Bruno! 👋
+## Oi, eu sou o Bruno!
 💻
 ##
